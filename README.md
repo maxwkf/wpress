@@ -16,7 +16,3 @@ wpadmin
 https://developer.wordpress.org/block-editor/how-to-guides/block-tutorial/writing-your-first-block-type/
 
 https://developer.wordpress.org/block-editor/how-to-guides/block-tutorial/applying-styles-with-stylesheets/
-
-
-test
-test2
