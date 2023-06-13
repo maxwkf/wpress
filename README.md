@@ -16,3 +16,6 @@ wpadmin
 https://developer.wordpress.org/block-editor/how-to-guides/block-tutorial/writing-your-first-block-type/
 
 https://developer.wordpress.org/block-editor/how-to-guides/block-tutorial/applying-styles-with-stylesheets/
+
+git config user.email xxxx
+git config user.name xxxx
